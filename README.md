@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mithilesh K</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center"></h3>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithmusq3&show_icons=true&locale=en&layout=compact" alt="mithmusq3" /></p>
 <br><br><br><br><br><br><br>
